@@ -1,0 +1,9 @@
+R:\Visual Studio\Variables\Variables\bin\Debug\Variables.exe.config
+R:\Visual Studio\Variables\Variables\bin\Debug\Variables.exe
+R:\Visual Studio\Variables\Variables\bin\Debug\Variables.pdb
+R:\Visual Studio\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+R:\Visual Studio\Variables\Variables\obj\Debug\Variables.Form1.resources
+R:\Visual Studio\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+R:\Visual Studio\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.Cache
+R:\Visual Studio\Variables\Variables\obj\Debug\Variables.exe
+R:\Visual Studio\Variables\Variables\obj\Debug\Variables.pdb

@@ -1,0 +1,9 @@
+R:\Visual Studio\Pong(for school)\Pong(for school)\bin\Debug\Pong(for school).exe.config
+R:\Visual Studio\Pong(for school)\Pong(for school)\bin\Debug\Pong(for school).exe
+R:\Visual Studio\Pong(for school)\Pong(for school)\bin\Debug\Pong(for school).pdb
+R:\Visual Studio\Pong(for school)\Pong(for school)\obj\Debug\Pong(for school).csprojResolveAssemblyReference.cache
+R:\Visual Studio\Pong(for school)\Pong(for school)\obj\Debug\Pong_for_school_.Form1.resources
+R:\Visual Studio\Pong(for school)\Pong(for school)\obj\Debug\Pong_for_school_.Properties.Resources.resources
+R:\Visual Studio\Pong(for school)\Pong(for school)\obj\Debug\Pong(for school).csproj.GenerateResource.Cache
+R:\Visual Studio\Pong(for school)\Pong(for school)\obj\Debug\Pong(for school).exe
+R:\Visual Studio\Pong(for school)\Pong(for school)\obj\Debug\Pong(for school).pdb

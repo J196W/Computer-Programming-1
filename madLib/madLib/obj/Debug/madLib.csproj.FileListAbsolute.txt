@@ -1,0 +1,9 @@
+R:\Visual Studio\madLib\madLib\bin\Debug\madLib.exe.config
+R:\Visual Studio\madLib\madLib\bin\Debug\madLib.exe
+R:\Visual Studio\madLib\madLib\bin\Debug\madLib.pdb
+R:\Visual Studio\madLib\madLib\obj\Debug\madLib.csprojResolveAssemblyReference.cache
+R:\Visual Studio\madLib\madLib\obj\Debug\madLib.Form1.resources
+R:\Visual Studio\madLib\madLib\obj\Debug\madLib.Properties.Resources.resources
+R:\Visual Studio\madLib\madLib\obj\Debug\madLib.csproj.GenerateResource.Cache
+R:\Visual Studio\madLib\madLib\obj\Debug\madLib.exe
+R:\Visual Studio\madLib\madLib\obj\Debug\madLib.pdb

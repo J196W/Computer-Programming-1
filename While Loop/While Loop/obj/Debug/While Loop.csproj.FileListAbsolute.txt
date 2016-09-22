@@ -1,0 +1,9 @@
+R:\Visual Studio\While Loop\While Loop\bin\Debug\While Loop.exe.config
+R:\Visual Studio\While Loop\While Loop\bin\Debug\While Loop.exe
+R:\Visual Studio\While Loop\While Loop\bin\Debug\While Loop.pdb
+R:\Visual Studio\While Loop\While Loop\obj\Debug\While Loop.csprojResolveAssemblyReference.cache
+R:\Visual Studio\While Loop\While Loop\obj\Debug\While_Loop.Form1.resources
+R:\Visual Studio\While Loop\While Loop\obj\Debug\While_Loop.Properties.Resources.resources
+R:\Visual Studio\While Loop\While Loop\obj\Debug\While Loop.csproj.GenerateResource.Cache
+R:\Visual Studio\While Loop\While Loop\obj\Debug\While Loop.exe
+R:\Visual Studio\While Loop\While Loop\obj\Debug\While Loop.pdb

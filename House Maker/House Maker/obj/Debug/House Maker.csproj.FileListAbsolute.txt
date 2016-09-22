@@ -1,0 +1,19 @@
+R:\Visual Studio\House Maker\House Maker\bin\Debug\House Maker.exe.config
+R:\Visual Studio\House Maker\House Maker\bin\Debug\House Maker.exe
+R:\Visual Studio\House Maker\House Maker\bin\Debug\House Maker.pdb
+R:\Visual Studio\House Maker\House Maker\obj\Debug\House Maker.csprojResolveAssemblyReference.cache
+R:\Visual Studio\House Maker\House Maker\obj\Debug\House_Maker.Form1.resources
+R:\Visual Studio\House Maker\House Maker\obj\Debug\House_Maker.Properties.Resources.resources
+R:\Visual Studio\House Maker\House Maker\obj\Debug\House Maker.csproj.GenerateResource.Cache
+R:\Visual Studio\House Maker\House Maker\obj\Debug\House Maker.exe
+R:\Visual Studio\House Maker\House Maker\obj\Debug\House Maker.pdb
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\bin\Debug\House Maker.exe.config
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\obj\Debug\House Maker.exe
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\obj\Debug\House Maker.pdb
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\bin\Debug\House Maker.exe
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\bin\Debug\House Maker.pdb
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\obj\Debug\House Maker.csprojResolveAssemblyReference.cache
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\obj\Debug\House_Maker.Properties.Resources.resources
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\obj\Debug\House Maker.csproj.GenerateResource.Cache
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\obj\Debug\House_Maker.HouseGenerator.resources
+C:\Users\Jason Wilcox\Desktop\House Maker\House Maker\obj\Debug\House_Maker.SettingsForHouseGenerator.resources

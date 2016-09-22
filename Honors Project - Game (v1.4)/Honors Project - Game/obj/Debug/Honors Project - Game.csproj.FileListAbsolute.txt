@@ -1,0 +1,10 @@
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\bin\Debug\Honors Project - Game.exe.config
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\bin\Debug\Honors Project - Game.exe
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\bin\Debug\Honors Project - Game.pdb
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\obj\Debug\Honors Project - Game.csprojResolveAssemblyReference.cache
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\obj\Debug\Honors_Project___Game.Properties.Resources.resources
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\obj\Debug\Honors Project - Game.csproj.GenerateResource.Cache
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\obj\Debug\Honors Project - Game.exe
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\obj\Debug\Honors Project - Game.pdb
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\obj\Debug\Honors_Project___Game.MainWindow.resources
+C:\Users\1902053\Desktop\Honors Project - Game (v1.4)\Honors Project - Game\obj\Debug\Honors_Project___Game.HiddenGame.resources
