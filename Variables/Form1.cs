@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Media;
 
+//Just a test of variables, self explanitory
 namespace Variables
 {
     public partial class Form1 : Form

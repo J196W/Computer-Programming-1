@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/* Code Explinations
+	This uses rectangles to determine the borders and paddles, and checks the keypress to move the charecter. THIS IS A GOOD EXAMPLE.
+*/
 namespace Pong_for_school_
 {
     public partial class Form1 : Form
@@ -17,11 +20,13 @@ namespace Pong_for_school_
         {
             InitializeComponent();
             MenuLoad();
+			//Initializes the borders and paddles
             Window[0] = new Rectangle(415, -6, 10, 497);
             Window[1] = new Rectangle(-4, -7, 10, 497);
             Window[2] = new Rectangle(-4, -7, 427, 10);
             Window[3] = new Rectangle(-4, 483, 420, 10);
         }
+		//Sets varaibles
         bool menu = true;
         int charMove = 5;
         Point[] paddles = new Point[2];
@@ -38,6 +43,8 @@ namespace Pong_for_school_
         int directionT = 0;
         int directionB = 0;
         bool single = false;
+		
+		//Checks for keypresses
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Right)

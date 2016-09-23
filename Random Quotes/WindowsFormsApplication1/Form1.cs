@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
+//DO NOT CODE LIKE THIS, USE FOR LOOPS. Otherwise, this is an ok example.
 namespace WindowsFormsApplication1
 {
 

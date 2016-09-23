@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// This is a good example of how to use while loops. GREAT EXAMPLE
 namespace While_Loop
 {
     public partial class Form1 : Form
