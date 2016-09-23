@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// This is just where the variable values are set as specified by the user. Nothing much.
 namespace House_Maker
 {
     public partial class SettingsForHouseGenerator : Form

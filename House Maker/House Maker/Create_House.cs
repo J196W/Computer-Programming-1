@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// This is the class that creates the houses. Rather simple. Basically just miller's example.
 namespace House_Maker
 {
     class Create_House

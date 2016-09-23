@@ -8,6 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/* Description of Honors Project
+For my honors project, I chose to take my adventure game and make it movement based. I only got to the first level, but it is a good concept. 
+
+Word of advice:	
+	NEVER CODE LIKE THIS. EVER. THIS IS NOT WHAT YOU SHOULD DO
+	But I have to admit, it is pretty cool....
+	
+All of the movement is based on timers for the animation, and key presses. Beyond that, it is just an array of rectangles in a for loop that checks if
+it intercepts with the carecter rectangle, which also corresponds to the picture box of the charecter. Key presses determine the direction the charecter
+moves, and there is even a menu system. Otherwise, it is pretty simple. Like I said, NEVER DO THIS. SERIOUS GRAPHICAL GLITCHES WILL ENSUE. DO NOT DO IT.
+*/
+
 namespace Honors_Project___Game
 {
     public partial class MainWindow : Form

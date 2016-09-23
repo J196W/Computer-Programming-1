@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// This is the class that creates the window that the user will be using. Making things be invisible is rather annoying, I must say. That is what most of this code is.
+// Also has the function to delete houses , which was fun.
 namespace House_Maker
 {
     public partial class HouseGenerator : Form

@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/* Explination
+This is a madLib project that does not use arrays for some reason. It only looks bad because I did not use for loops with arrays,
+I individually defined each variable and it's value. Because I could. Otherwise, it is pretty simple.
+*/
 namespace madLib
 {
     public partial class Form1 : Form
